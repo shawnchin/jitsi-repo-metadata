@@ -1,0 +1,23 @@
+# Queries Jitsi repos for tags and populate tags_*.json files
+
+name: Sync release tags
+on:
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  query_and_update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Query repos and update tag.json
+        run: python scripts/sync_tags.py
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: tag updates
