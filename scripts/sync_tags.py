@@ -63,15 +63,15 @@ class JitsiTagQuery:
         logger.info(f'Latest unstable: {unstable_data[sorted_unstable_versions[0]]["tag"]}')
 
         return {
-            'repo': self.repo,
-            'syncAt': sync_time,
-            'versions': {
-                'stable': sorted_stable_versions,
-                'unstable': sorted_unstable_versions,
+            'stable': {
+                'repo': self.repo,
+                'versions': sorted_stable_versions,
+                'tags': stable_data,
             },
-            'tags': {
-                'stable': stable_data,
-                'unstable': unstable_data,
+            'unstable': {
+                'repo': self.repo,
+                'versions': sorted_unstable_versions,
+                'tags': unstable_data,
             },
         }
 
@@ -97,29 +97,26 @@ class JitsiTagQuery:
 
 
 PROJECTS = {
-    "jitsi-meet": {
-        "query": JitsiTagQuery(repo="jitsi/jitsi-meet"),
-        "output": "tags_jitsi-meet.json",
-    },
-    "jitsi-videobridge": {
-        "query": JitsiTagQuery(repo="jitsi/jitsi-videobridge"),
-        "output": "tags_jitsi-videobridge.json",
-    },
-
-    "jicofo": {
-        "query": JitsiTagQuery(repo="jitsi/jicofo"),
-        "output": "tags_jicofo.json",
-    },
+    "jitsi-meet": JitsiTagQuery(repo="jitsi/jitsi-meet"),
+    "jitsi-videobridge": JitsiTagQuery(repo="jitsi/jitsi-videobridge"),
+    "jicofo": JitsiTagQuery(repo="jitsi/jicofo"),
 }
 
 
 if __name__ == '__main__':
     logging.basicConfig(level=LOGLEVEL, format='%(asctime)s [%(levelname)s] %(message)s')
 
-    for project, params in PROJECTS.items():
-        tag_data = params['query'].get_tags()
-        output = params['output']
-        logger.info(f"Writing output as JSON to {output}")
-        with open(output, 'w') as f:
-            f.write(json.dumps(tag_data, indent=2))
+    for project, query in PROJECTS.items():
+        tag_data = query.get_tags()
+
+        stable_output = f'tags_stable_{project}.json'
+        unstable_output = f'tags_unstable_{project}.json'
+
+        logger.info(f"Writing {stable_output}")
+        with open(stable_output, 'w') as f:
+            f.write(json.dumps(tag_data['stable'], indent=2))
+
+        logger.info(f"Writing {unstable_output}")
+        with open(unstable_output, 'w') as f:
+            f.write(json.dumps(tag_data['unstable'], indent=2))
 

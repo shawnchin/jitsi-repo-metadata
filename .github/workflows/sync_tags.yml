@@ -4,6 +4,9 @@ name: Sync release tags
 on:
   # Allow manual trigger
   workflow_dispatch:
+  # Twice a day
+  schedule:
+    - cron: '0 0,12 * * *'
 
 jobs:
   query_and_update:
