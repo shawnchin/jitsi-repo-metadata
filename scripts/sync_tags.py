@@ -9,7 +9,7 @@ from typing import (
 )
 
 LOGLEVEL = logging.INFO
-
+VERSION_CUTOFF = 5000   # exclude versions older than this
 
 logger = logging.getLogger('update_tags')
 
@@ -31,7 +31,7 @@ class JitsiTagQuery:
         command = self._get_git_ls_command()
         logger.info(f"Running {' '.join(command)}")
         output = subprocess.check_output(command).decode('utf-8')
-        sync_time = datetime.datetime.utcnow().isoformat()
+        # sync_time = datetime.datetime.utcnow().isoformat()
 
         stable_data = {}
         stable_versions = set()
@@ -46,21 +46,27 @@ class JitsiTagQuery:
                 continue
 
             tag_data = self._parse_ref(ref)
-            if tag_data:
-                data = dict(commit=commit_hash, tag=tag_data.tag)
-                if tag_data.stable:
-                    stable_versions.add(tag_data.version)
-                    stable_data[tag_data.version] = data
-                else:
-                    unstable_versions.add(tag_data.version)
-                    unstable_data[tag_data.version] = data
+
+            if not tag_data or tag_data.version < VERSION_CUTOFF:
+                continue
+
+            data = dict(commit=commit_hash, tag=tag_data.tag)
+            if tag_data.stable:
+                stable_versions.add(tag_data.version)
+                stable_data[tag_data.version] = data
+            else:
+                unstable_versions.add(tag_data.version)
+                unstable_data[tag_data.version] = data
 
         sorted_stable_versions = sorted(stable_versions, reverse=True)
         sorted_unstable_versions = sorted(unstable_versions, reverse=True)
 
-        logger.info(f'Found {len(stable_versions)} stable versions and {len(unstable_versions)} unstable versions')
-        logger.info(f'Latest stable: {stable_data[sorted_stable_versions[0]]["tag"]}')
-        logger.info(f'Latest unstable: {unstable_data[sorted_unstable_versions[0]]["tag"]}')
+        logger.info(f'Found {len(stable_versions)} stable versions and {len(unstable_versions)} unstable versions '
+                    f'thats >= {VERSION_CUTOFF}')
+        if stable_versions:
+            logger.info(f'Latest stable: {stable_data[sorted_stable_versions[0]]["tag"]}')
+        if unstable_versions:
+            logger.info(f'Latest unstable: {unstable_data[sorted_unstable_versions[0]]["tag"]}')
 
         return {
             'stable': {
