@@ -16,44 +16,9 @@
     6689,
     6433,
     6293,
-    6173,
-    5963,
-    5870,
-    5765,
-    5390,
-    5142,
-    5076,
-    5073
+    6173
   ],
   "tags": {
-    "5073": {
-      "commit": "f6fd60133e0f49fbd6158a19fc1e35985ec1e73b",
-      "tag": "stable/jitsi-meet_5073"
-    },
-    "5076": {
-      "commit": "0e7b8e30fb7fc42a653b6474159069863f4472c8",
-      "tag": "stable/jitsi-meet_5076"
-    },
-    "5142": {
-      "commit": "f0cfbb25c411173b58e88f238d68775faf669f80",
-      "tag": "stable/jitsi-meet_5142"
-    },
-    "5390": {
-      "commit": "124520edf455cf109d6ef0ae0e3621d95d0134c9",
-      "tag": "stable/jitsi-meet_5390"
-    },
-    "5765": {
-      "commit": "cdcfd8781ea385791e20d05522492aa33aea973a",
-      "tag": "stable/jitsi-meet_5765"
-    },
-    "5870": {
-      "commit": "e221f64cb7ab120d3904aa77fa42045cbdea327b",
-      "tag": "stable/jitsi-meet_5870"
-    },
-    "5963": {
-      "commit": "2c369c540ec1cedb9549de85c5b5f4d5f22e768f",
-      "tag": "stable/jitsi-meet_5963"
-    },
     "6173": {
       "commit": "00ed2a56dfb7bb0ca52a703e762cd637715c17c4",
       "tag": "stable/jitsi-meet_6173"
