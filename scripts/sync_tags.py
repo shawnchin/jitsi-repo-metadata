@@ -9,7 +9,7 @@ from typing import (
 )
 
 LOGLEVEL = logging.INFO
-VERSION_CUTOFF = 5000   # exclude versions older than this
+VERSION_CUTOFF = 6000   # exclude versions older than this
 
 logger = logging.getLogger('update_tags')
 
