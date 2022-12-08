@@ -1,6 +1,7 @@
 {
   "repo": "jitsi/jitsi-meet",
   "versions": [
+    8138,
     8133,
     8127,
     8044,
@@ -97,6 +98,10 @@
     "8133": {
       "commit": "ae76e61333743aa9e769399414d9dcba64e76f1b",
       "tag": "stable/jitsi-meet_8133"
+    },
+    "8138": {
+      "commit": "3685ea6c1be67a4f209c772e03dab51dd66e6cf1",
+      "tag": "stable/jitsi-meet_8138"
     }
   }
 }
