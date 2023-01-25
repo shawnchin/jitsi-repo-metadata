@@ -1,6 +1,13 @@
 {
   "repo": "jitsi/jitsi-meet",
   "versions": [
+    8244,
+    8243,
+    8242,
+    8241,
+    8240,
+    8239,
+    8238,
     8237,
     8236,
     8235,
@@ -11187,6 +11194,34 @@
     "8237": {
       "commit": "aba91daddd9c0705bf77aebd371a6f5555647e37",
       "tag": "jitsi-meet_8237"
+    },
+    "8238": {
+      "commit": "585886b69fe4fc0e4e625d7c3b6d42094036c50c",
+      "tag": "jitsi-meet_8238"
+    },
+    "8239": {
+      "commit": "ab3ac4155a0cfc63263c19398f9578c33234339c",
+      "tag": "jitsi-meet_8239"
+    },
+    "8240": {
+      "commit": "d78950d51a5e6ccbdb26f2a0ef30fcf1c4e89036",
+      "tag": "jitsi-meet_8240"
+    },
+    "8241": {
+      "commit": "cf47a88ad99f9904adf67475751e012cf3324c79",
+      "tag": "jitsi-meet_8241"
+    },
+    "8242": {
+      "commit": "d2f5510a7f0c0c3d779ba5a3f1806ae5a5f391c7",
+      "tag": "jitsi-meet_8242"
+    },
+    "8243": {
+      "commit": "26c7aa9cdd64c434ba458a8d992444e9ffdbad24",
+      "tag": "jitsi-meet_8243"
+    },
+    "8244": {
+      "commit": "ac326d1932ba4f751c2ffccc568746814d41f0c2",
+      "tag": "jitsi-meet_8244"
     }
   }
 }
