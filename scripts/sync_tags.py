@@ -1,4 +1,3 @@
-import datetime
 import json
 import logging
 import re
@@ -11,7 +10,7 @@ from typing import (
 LOGLEVEL = logging.INFO
 VERSION_CUTOFF = 6000   # exclude versions older than this
 
-logger = logging.getLogger('update_tags')
+logger = logging.getLogger('sync_tags')
 
 
 class RefTag(NamedTuple):

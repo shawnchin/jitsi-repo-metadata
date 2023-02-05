@@ -1,6 +1,4 @@
-# Queries Jitsi repos for tags and populate tags_*.json files
-
-name: Sync release tags
+name: Sync release tags and package deps
 on:
   # Allow manual trigger
   workflow_dispatch:
@@ -18,9 +16,15 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: Query repos and update tag.json
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Query repos and update tags json
         run: python scripts/sync_tags.py
+
+      - name: Query packages and update deps json
+        run: python scripts/sync_deps.py
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: tag updates
+          commit_message: automated updates
