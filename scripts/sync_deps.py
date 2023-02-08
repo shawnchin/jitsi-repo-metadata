@@ -25,7 +25,10 @@ def extract_jitsi_meet_deps(line_iter):
         dependencies.update(parse_deps(stanza.get("Pre-Depends")))
         dependencies.update(parse_deps(stanza.get("Depends")))
 
-        out.append(dict(version=version, deps=dependencies))
+        recommends = {}
+        recommends.update(parse_deps(stanza.get("Recommends")))
+
+        out.append(dict(version=version, deps=dependencies, recommends=recommends))
     return out
 
 def version_in_scope(version):
@@ -42,10 +45,10 @@ def parse_version(version):
 def parse_deps(line: str):
     deps = {}
     if line:
-        for entry in line.split(", "):
+        for entry in (s.strip() for s in re.split(r'[,|]', line)):
             match = re.match(r"([\w-]+) \(= (.+)\)$", entry)
-            assert match, line
-            deps[match.group(1)] = match.group(2)
+            if match:
+                deps[match.group(1)] = match.group(2)
     return deps
 
 def get_stanzas_for_jitsi_meet(iter_lines):
