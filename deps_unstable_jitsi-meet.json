@@ -7,6 +7,9 @@
       "jitsi-meet-web": "1.0.6970-1",
       "jitsi-meet-web-config": "1.0.6970-1",
       "jitsi-meet-prosody": "1.0.6970-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6970-1"
     }
   },
   {
@@ -17,6 +20,9 @@
       "jitsi-meet-web": "1.0.6970-1",
       "jitsi-meet-web-config": "1.0.6970-1",
       "jitsi-meet-prosody": "1.0.6970-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6970-1"
     }
   },
   {
@@ -27,6 +33,9 @@
       "jitsi-meet-web": "1.0.6970-1",
       "jitsi-meet-web-config": "1.0.6970-1",
       "jitsi-meet-prosody": "1.0.6970-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6970-1"
     }
   },
   {
@@ -37,6 +46,9 @@
       "jitsi-meet-web": "1.0.6970-1",
       "jitsi-meet-web-config": "1.0.6970-1",
       "jitsi-meet-prosody": "1.0.6970-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6970-1"
     }
   },
   {
@@ -47,6 +59,9 @@
       "jitsi-meet-web": "1.0.6970-1",
       "jitsi-meet-web-config": "1.0.6970-1",
       "jitsi-meet-prosody": "1.0.6970-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6970-1"
     }
   },
   {
@@ -57,6 +72,9 @@
       "jitsi-meet-web": "1.0.6970-1",
       "jitsi-meet-web-config": "1.0.6970-1",
       "jitsi-meet-prosody": "1.0.6970-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6970-1"
     }
   },
   {
@@ -67,6 +85,9 @@
       "jitsi-meet-web": "1.0.6969-1",
       "jitsi-meet-web-config": "1.0.6969-1",
       "jitsi-meet-prosody": "1.0.6969-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6969-1"
     }
   },
   {
@@ -77,6 +98,9 @@
       "jitsi-meet-web": "1.0.6968-1",
       "jitsi-meet-web-config": "1.0.6968-1",
       "jitsi-meet-prosody": "1.0.6968-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6968-1"
     }
   },
   {
@@ -87,6 +111,9 @@
       "jitsi-meet-web": "1.0.6967-1",
       "jitsi-meet-web-config": "1.0.6967-1",
       "jitsi-meet-prosody": "1.0.6967-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6967-1"
     }
   },
   {
@@ -97,6 +124,9 @@
       "jitsi-meet-web": "1.0.6966-1",
       "jitsi-meet-web-config": "1.0.6966-1",
       "jitsi-meet-prosody": "1.0.6966-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6966-1"
     }
   },
   {
@@ -107,6 +137,9 @@
       "jitsi-meet-web": "1.0.6965-1",
       "jitsi-meet-web-config": "1.0.6965-1",
       "jitsi-meet-prosody": "1.0.6965-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6965-1"
     }
   },
   {
@@ -117,6 +150,9 @@
       "jitsi-meet-web": "1.0.6964-1",
       "jitsi-meet-web-config": "1.0.6964-1",
       "jitsi-meet-prosody": "1.0.6964-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6964-1"
     }
   },
   {
@@ -127,6 +163,9 @@
       "jitsi-meet-web": "1.0.6963-1",
       "jitsi-meet-web-config": "1.0.6963-1",
       "jitsi-meet-prosody": "1.0.6963-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6963-1"
     }
   },
   {
@@ -137,6 +176,9 @@
       "jitsi-meet-web": "1.0.6962-1",
       "jitsi-meet-web-config": "1.0.6962-1",
       "jitsi-meet-prosody": "1.0.6962-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6962-1"
     }
   },
   {
@@ -147,6 +189,9 @@
       "jitsi-meet-web": "1.0.6961-1",
       "jitsi-meet-web-config": "1.0.6961-1",
       "jitsi-meet-prosody": "1.0.6961-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6961-1"
     }
   },
   {
@@ -157,6 +202,9 @@
       "jitsi-meet-web": "1.0.6960-1",
       "jitsi-meet-web-config": "1.0.6960-1",
       "jitsi-meet-prosody": "1.0.6960-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6960-1"
     }
   },
   {
@@ -167,6 +215,9 @@
       "jitsi-meet-web": "1.0.6959-1",
       "jitsi-meet-web-config": "1.0.6959-1",
       "jitsi-meet-prosody": "1.0.6959-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6959-1"
     }
   },
   {
@@ -177,6 +228,9 @@
       "jitsi-meet-web": "1.0.6958-1",
       "jitsi-meet-web-config": "1.0.6958-1",
       "jitsi-meet-prosody": "1.0.6958-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6958-1"
     }
   },
   {
@@ -187,6 +241,9 @@
       "jitsi-meet-web": "1.0.6958-1",
       "jitsi-meet-web-config": "1.0.6958-1",
       "jitsi-meet-prosody": "1.0.6958-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6958-1"
     }
   },
   {
@@ -197,6 +254,9 @@
       "jitsi-meet-web": "1.0.6958-1",
       "jitsi-meet-web-config": "1.0.6958-1",
       "jitsi-meet-prosody": "1.0.6958-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6958-1"
     }
   },
   {
@@ -207,6 +267,9 @@
       "jitsi-meet-web": "1.0.6957-1",
       "jitsi-meet-web-config": "1.0.6957-1",
       "jitsi-meet-prosody": "1.0.6957-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6957-1"
     }
   },
   {
@@ -217,6 +280,9 @@
       "jitsi-meet-web": "1.0.6956-1",
       "jitsi-meet-web-config": "1.0.6956-1",
       "jitsi-meet-prosody": "1.0.6956-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6956-1"
     }
   },
   {
@@ -227,6 +293,9 @@
       "jitsi-meet-web": "1.0.6955-1",
       "jitsi-meet-web-config": "1.0.6955-1",
       "jitsi-meet-prosody": "1.0.6955-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6955-1"
     }
   },
   {
@@ -237,6 +306,9 @@
       "jitsi-meet-web": "1.0.6954-1",
       "jitsi-meet-web-config": "1.0.6954-1",
       "jitsi-meet-prosody": "1.0.6954-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6954-1"
     }
   },
   {
@@ -247,6 +319,9 @@
       "jitsi-meet-web": "1.0.6953-1",
       "jitsi-meet-web-config": "1.0.6953-1",
       "jitsi-meet-prosody": "1.0.6953-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6953-1"
     }
   },
   {
@@ -257,6 +332,9 @@
       "jitsi-meet-web": "1.0.6953-1",
       "jitsi-meet-web-config": "1.0.6953-1",
       "jitsi-meet-prosody": "1.0.6953-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6953-1"
     }
   },
   {
@@ -267,6 +345,9 @@
       "jitsi-meet-web": "1.0.6952-1",
       "jitsi-meet-web-config": "1.0.6952-1",
       "jitsi-meet-prosody": "1.0.6952-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6952-1"
     }
   },
   {
@@ -277,6 +358,9 @@
       "jitsi-meet-web": "1.0.6951-1",
       "jitsi-meet-web-config": "1.0.6951-1",
       "jitsi-meet-prosody": "1.0.6951-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6951-1"
     }
   },
   {
@@ -287,6 +371,9 @@
       "jitsi-meet-web": "1.0.6950-1",
       "jitsi-meet-web-config": "1.0.6950-1",
       "jitsi-meet-prosody": "1.0.6950-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6950-1"
     }
   },
   {
@@ -297,6 +384,9 @@
       "jitsi-meet-web": "1.0.6949-1",
       "jitsi-meet-web-config": "1.0.6949-1",
       "jitsi-meet-prosody": "1.0.6949-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6949-1"
     }
   },
   {
@@ -307,6 +397,9 @@
       "jitsi-meet-web": "1.0.6948-1",
       "jitsi-meet-web-config": "1.0.6948-1",
       "jitsi-meet-prosody": "1.0.6948-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6948-1"
     }
   },
   {
@@ -317,6 +410,9 @@
       "jitsi-meet-web": "1.0.6947-1",
       "jitsi-meet-web-config": "1.0.6947-1",
       "jitsi-meet-prosody": "1.0.6947-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6947-1"
     }
   },
   {
@@ -327,6 +423,9 @@
       "jitsi-meet-web": "1.0.6946-1",
       "jitsi-meet-web-config": "1.0.6946-1",
       "jitsi-meet-prosody": "1.0.6946-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6946-1"
     }
   },
   {
@@ -337,6 +436,9 @@
       "jitsi-meet-web": "1.0.6945-1",
       "jitsi-meet-web-config": "1.0.6945-1",
       "jitsi-meet-prosody": "1.0.6945-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6945-1"
     }
   },
   {
@@ -347,6 +449,9 @@
       "jitsi-meet-web": "1.0.6944-1",
       "jitsi-meet-web-config": "1.0.6944-1",
       "jitsi-meet-prosody": "1.0.6944-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6944-1"
     }
   },
   {
@@ -357,6 +462,9 @@
       "jitsi-meet-web": "1.0.6943-1",
       "jitsi-meet-web-config": "1.0.6943-1",
       "jitsi-meet-prosody": "1.0.6943-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6943-1"
     }
   },
   {
@@ -367,6 +475,9 @@
       "jitsi-meet-web": "1.0.6943-1",
       "jitsi-meet-web-config": "1.0.6943-1",
       "jitsi-meet-prosody": "1.0.6943-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6943-1"
     }
   },
   {
@@ -377,6 +488,9 @@
       "jitsi-meet-web": "1.0.6942-1",
       "jitsi-meet-web-config": "1.0.6942-1",
       "jitsi-meet-prosody": "1.0.6942-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6942-1"
     }
   },
   {
@@ -387,6 +501,9 @@
       "jitsi-meet-web": "1.0.6941-1",
       "jitsi-meet-web-config": "1.0.6941-1",
       "jitsi-meet-prosody": "1.0.6941-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6941-1"
     }
   },
   {
@@ -397,6 +514,9 @@
       "jitsi-meet-web": "1.0.6940-1",
       "jitsi-meet-web-config": "1.0.6940-1",
       "jitsi-meet-prosody": "1.0.6940-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6940-1"
     }
   },
   {
@@ -407,6 +527,9 @@
       "jitsi-meet-web": "1.0.6940-1",
       "jitsi-meet-web-config": "1.0.6940-1",
       "jitsi-meet-prosody": "1.0.6940-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6940-1"
     }
   },
   {
@@ -417,6 +540,9 @@
       "jitsi-meet-web": "1.0.6939-1",
       "jitsi-meet-web-config": "1.0.6939-1",
       "jitsi-meet-prosody": "1.0.6939-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6939-1"
     }
   },
   {
@@ -427,6 +553,9 @@
       "jitsi-meet-web": "1.0.6938-1",
       "jitsi-meet-web-config": "1.0.6938-1",
       "jitsi-meet-prosody": "1.0.6938-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6938-1"
     }
   },
   {
@@ -437,6 +566,9 @@
       "jitsi-meet-web": "1.0.6937-1",
       "jitsi-meet-web-config": "1.0.6937-1",
       "jitsi-meet-prosody": "1.0.6937-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6937-1"
     }
   },
   {
@@ -447,6 +579,9 @@
       "jitsi-meet-web": "1.0.6936-1",
       "jitsi-meet-web-config": "1.0.6936-1",
       "jitsi-meet-prosody": "1.0.6936-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6936-1"
     }
   },
   {
@@ -457,6 +592,9 @@
       "jitsi-meet-web": "1.0.6935-1",
       "jitsi-meet-web-config": "1.0.6935-1",
       "jitsi-meet-prosody": "1.0.6935-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6935-1"
     }
   },
   {
@@ -467,6 +605,9 @@
       "jitsi-meet-web": "1.0.6934-1",
       "jitsi-meet-web-config": "1.0.6934-1",
       "jitsi-meet-prosody": "1.0.6934-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6934-1"
     }
   },
   {
@@ -477,6 +618,9 @@
       "jitsi-meet-web": "1.0.6934-1",
       "jitsi-meet-web-config": "1.0.6934-1",
       "jitsi-meet-prosody": "1.0.6934-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6934-1"
     }
   },
   {
@@ -487,6 +631,9 @@
       "jitsi-meet-web": "1.0.6933-1",
       "jitsi-meet-web-config": "1.0.6933-1",
       "jitsi-meet-prosody": "1.0.6933-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6933-1"
     }
   },
   {
@@ -497,6 +644,9 @@
       "jitsi-meet-web": "1.0.6932-1",
       "jitsi-meet-web-config": "1.0.6932-1",
       "jitsi-meet-prosody": "1.0.6932-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6932-1"
     }
   },
   {
@@ -507,6 +657,9 @@
       "jitsi-meet-web": "1.0.6931-1",
       "jitsi-meet-web-config": "1.0.6931-1",
       "jitsi-meet-prosody": "1.0.6931-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6931-1"
     }
   },
   {
@@ -517,6 +670,9 @@
       "jitsi-meet-web": "1.0.6930-1",
       "jitsi-meet-web-config": "1.0.6930-1",
       "jitsi-meet-prosody": "1.0.6930-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6930-1"
     }
   },
   {
@@ -527,6 +683,9 @@
       "jitsi-meet-web": "1.0.6929-1",
       "jitsi-meet-web-config": "1.0.6929-1",
       "jitsi-meet-prosody": "1.0.6929-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6929-1"
     }
   },
   {
@@ -537,6 +696,9 @@
       "jitsi-meet-web": "1.0.6928-1",
       "jitsi-meet-web-config": "1.0.6928-1",
       "jitsi-meet-prosody": "1.0.6928-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6928-1"
     }
   },
   {
@@ -547,6 +709,9 @@
       "jitsi-meet-web": "1.0.6927-1",
       "jitsi-meet-web-config": "1.0.6927-1",
       "jitsi-meet-prosody": "1.0.6927-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6927-1"
     }
   },
   {
@@ -557,6 +722,9 @@
       "jitsi-meet-web": "1.0.6926-1",
       "jitsi-meet-web-config": "1.0.6926-1",
       "jitsi-meet-prosody": "1.0.6926-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6926-1"
     }
   },
   {
@@ -567,6 +735,9 @@
       "jitsi-meet-web": "1.0.6926-1",
       "jitsi-meet-web-config": "1.0.6926-1",
       "jitsi-meet-prosody": "1.0.6926-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6926-1"
     }
   },
   {
@@ -577,6 +748,9 @@
       "jitsi-meet-web": "1.0.6925-1",
       "jitsi-meet-web-config": "1.0.6925-1",
       "jitsi-meet-prosody": "1.0.6925-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6925-1"
     }
   },
   {
@@ -587,6 +761,9 @@
       "jitsi-meet-web": "1.0.6924-1",
       "jitsi-meet-web-config": "1.0.6924-1",
       "jitsi-meet-prosody": "1.0.6924-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6924-1"
     }
   },
   {
@@ -597,6 +774,9 @@
       "jitsi-meet-web": "1.0.6924-1",
       "jitsi-meet-web-config": "1.0.6924-1",
       "jitsi-meet-prosody": "1.0.6924-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6924-1"
     }
   },
   {
@@ -607,6 +787,9 @@
       "jitsi-meet-web": "1.0.6924-1",
       "jitsi-meet-web-config": "1.0.6924-1",
       "jitsi-meet-prosody": "1.0.6924-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6924-1"
     }
   },
   {
@@ -617,6 +800,9 @@
       "jitsi-meet-web": "1.0.6924-1",
       "jitsi-meet-web-config": "1.0.6924-1",
       "jitsi-meet-prosody": "1.0.6924-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6924-1"
     }
   },
   {
@@ -627,6 +813,9 @@
       "jitsi-meet-web": "1.0.6924-1",
       "jitsi-meet-web-config": "1.0.6924-1",
       "jitsi-meet-prosody": "1.0.6924-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6924-1"
     }
   },
   {
@@ -637,6 +826,9 @@
       "jitsi-meet-web": "1.0.6924-1",
       "jitsi-meet-web-config": "1.0.6924-1",
       "jitsi-meet-prosody": "1.0.6924-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6924-1"
     }
   },
   {
@@ -647,6 +839,9 @@
       "jitsi-meet-web": "1.0.6924-1",
       "jitsi-meet-web-config": "1.0.6924-1",
       "jitsi-meet-prosody": "1.0.6924-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6924-1"
     }
   },
   {
@@ -657,6 +852,9 @@
       "jitsi-meet-web": "1.0.6923-1",
       "jitsi-meet-web-config": "1.0.6923-1",
       "jitsi-meet-prosody": "1.0.6923-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6923-1"
     }
   },
   {
@@ -667,6 +865,9 @@
       "jitsi-meet-web": "1.0.6922-1",
       "jitsi-meet-web-config": "1.0.6922-1",
       "jitsi-meet-prosody": "1.0.6922-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6922-1"
     }
   },
   {
@@ -677,6 +878,9 @@
       "jitsi-meet-web": "1.0.6921-1",
       "jitsi-meet-web-config": "1.0.6921-1",
       "jitsi-meet-prosody": "1.0.6921-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6921-1"
     }
   },
   {
@@ -687,6 +891,9 @@
       "jitsi-meet-web": "1.0.6920-1",
       "jitsi-meet-web-config": "1.0.6920-1",
       "jitsi-meet-prosody": "1.0.6920-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6920-1"
     }
   },
   {
@@ -697,6 +904,9 @@
       "jitsi-meet-web": "1.0.6919-1",
       "jitsi-meet-web-config": "1.0.6919-1",
       "jitsi-meet-prosody": "1.0.6919-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6919-1"
     }
   },
   {
@@ -707,6 +917,9 @@
       "jitsi-meet-web": "1.0.6918-1",
       "jitsi-meet-web-config": "1.0.6918-1",
       "jitsi-meet-prosody": "1.0.6918-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6918-1"
     }
   },
   {
@@ -717,6 +930,9 @@
       "jitsi-meet-web": "1.0.6917-1",
       "jitsi-meet-web-config": "1.0.6917-1",
       "jitsi-meet-prosody": "1.0.6917-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6917-1"
     }
   },
   {
@@ -727,6 +943,9 @@
       "jitsi-meet-web": "1.0.6916-1",
       "jitsi-meet-web-config": "1.0.6916-1",
       "jitsi-meet-prosody": "1.0.6916-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6916-1"
     }
   },
   {
@@ -737,6 +956,9 @@
       "jitsi-meet-web": "1.0.6916-1",
       "jitsi-meet-web-config": "1.0.6916-1",
       "jitsi-meet-prosody": "1.0.6916-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6916-1"
     }
   },
   {
@@ -747,6 +969,9 @@
       "jitsi-meet-web": "1.0.6915-1",
       "jitsi-meet-web-config": "1.0.6915-1",
       "jitsi-meet-prosody": "1.0.6915-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6915-1"
     }
   },
   {
@@ -757,6 +982,9 @@
       "jitsi-meet-web": "1.0.6914-1",
       "jitsi-meet-web-config": "1.0.6914-1",
       "jitsi-meet-prosody": "1.0.6914-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6914-1"
     }
   },
   {
@@ -767,6 +995,9 @@
       "jitsi-meet-web": "1.0.6913-1",
       "jitsi-meet-web-config": "1.0.6913-1",
       "jitsi-meet-prosody": "1.0.6913-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6913-1"
     }
   },
   {
@@ -777,6 +1008,9 @@
       "jitsi-meet-web": "1.0.6912-1",
       "jitsi-meet-web-config": "1.0.6912-1",
       "jitsi-meet-prosody": "1.0.6912-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6912-1"
     }
   },
   {
@@ -787,6 +1021,9 @@
       "jitsi-meet-web": "1.0.6911-1",
       "jitsi-meet-web-config": "1.0.6911-1",
       "jitsi-meet-prosody": "1.0.6911-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6911-1"
     }
   },
   {
@@ -797,6 +1034,9 @@
       "jitsi-meet-web": "1.0.6910-1",
       "jitsi-meet-web-config": "1.0.6910-1",
       "jitsi-meet-prosody": "1.0.6910-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6910-1"
     }
   },
   {
@@ -807,6 +1047,9 @@
       "jitsi-meet-web": "1.0.6909-1",
       "jitsi-meet-web-config": "1.0.6909-1",
       "jitsi-meet-prosody": "1.0.6909-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6909-1"
     }
   },
   {
@@ -817,6 +1060,9 @@
       "jitsi-meet-web": "1.0.6909-1",
       "jitsi-meet-web-config": "1.0.6909-1",
       "jitsi-meet-prosody": "1.0.6909-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6909-1"
     }
   },
   {
@@ -827,6 +1073,9 @@
       "jitsi-meet-web": "1.0.6908-1",
       "jitsi-meet-web-config": "1.0.6908-1",
       "jitsi-meet-prosody": "1.0.6908-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6908-1"
     }
   },
   {
@@ -837,6 +1086,9 @@
       "jitsi-meet-web": "1.0.6907-1",
       "jitsi-meet-web-config": "1.0.6907-1",
       "jitsi-meet-prosody": "1.0.6907-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6907-1"
     }
   },
   {
@@ -847,6 +1099,9 @@
       "jitsi-meet-web": "1.0.6906-1",
       "jitsi-meet-web-config": "1.0.6906-1",
       "jitsi-meet-prosody": "1.0.6906-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6906-1"
     }
   },
   {
@@ -857,6 +1112,9 @@
       "jitsi-meet-web": "1.0.6905-1",
       "jitsi-meet-web-config": "1.0.6905-1",
       "jitsi-meet-prosody": "1.0.6905-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6905-1"
     }
   },
   {
@@ -867,6 +1125,9 @@
       "jitsi-meet-web": "1.0.6904-1",
       "jitsi-meet-web-config": "1.0.6904-1",
       "jitsi-meet-prosody": "1.0.6904-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6904-1"
     }
   },
   {
@@ -877,6 +1138,9 @@
       "jitsi-meet-web": "1.0.6903-1",
       "jitsi-meet-web-config": "1.0.6903-1",
       "jitsi-meet-prosody": "1.0.6903-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6903-1"
     }
   },
   {
@@ -887,6 +1151,9 @@
       "jitsi-meet-web": "1.0.6902-1",
       "jitsi-meet-web-config": "1.0.6902-1",
       "jitsi-meet-prosody": "1.0.6902-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6902-1"
     }
   },
   {
@@ -897,6 +1164,9 @@
       "jitsi-meet-web": "1.0.6901-1",
       "jitsi-meet-web-config": "1.0.6901-1",
       "jitsi-meet-prosody": "1.0.6901-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6901-1"
     }
   },
   {
@@ -907,6 +1177,9 @@
       "jitsi-meet-web": "1.0.6900-1",
       "jitsi-meet-web-config": "1.0.6900-1",
       "jitsi-meet-prosody": "1.0.6900-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6900-1"
     }
   },
   {
@@ -917,6 +1190,9 @@
       "jitsi-meet-web": "1.0.6899-1",
       "jitsi-meet-web-config": "1.0.6899-1",
       "jitsi-meet-prosody": "1.0.6899-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6899-1"
     }
   },
   {
@@ -927,6 +1203,9 @@
       "jitsi-meet-web": "1.0.6898-1",
       "jitsi-meet-web-config": "1.0.6898-1",
       "jitsi-meet-prosody": "1.0.6898-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6898-1"
     }
   },
   {
@@ -937,6 +1216,9 @@
       "jitsi-meet-web": "1.0.6897-1",
       "jitsi-meet-web-config": "1.0.6897-1",
       "jitsi-meet-prosody": "1.0.6897-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6897-1"
     }
   },
   {
@@ -947,6 +1229,9 @@
       "jitsi-meet-web": "1.0.6897-1",
       "jitsi-meet-web-config": "1.0.6897-1",
       "jitsi-meet-prosody": "1.0.6897-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6897-1"
     }
   },
   {
@@ -957,6 +1242,9 @@
       "jitsi-meet-web": "1.0.6896-1",
       "jitsi-meet-web-config": "1.0.6896-1",
       "jitsi-meet-prosody": "1.0.6896-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6896-1"
     }
   },
   {
@@ -967,6 +1255,9 @@
       "jitsi-meet-web": "1.0.6896-1",
       "jitsi-meet-web-config": "1.0.6896-1",
       "jitsi-meet-prosody": "1.0.6896-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6896-1"
     }
   },
   {
@@ -977,6 +1268,9 @@
       "jitsi-meet-web": "1.0.6896-1",
       "jitsi-meet-web-config": "1.0.6896-1",
       "jitsi-meet-prosody": "1.0.6896-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6896-1"
     }
   },
   {
@@ -987,6 +1281,9 @@
       "jitsi-meet-web": "1.0.6896-1",
       "jitsi-meet-web-config": "1.0.6896-1",
       "jitsi-meet-prosody": "1.0.6896-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6896-1"
     }
   },
   {
@@ -997,6 +1294,9 @@
       "jitsi-meet-web": "1.0.6895-1",
       "jitsi-meet-web-config": "1.0.6895-1",
       "jitsi-meet-prosody": "1.0.6895-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6895-1"
     }
   },
   {
@@ -1007,6 +1307,9 @@
       "jitsi-meet-web": "1.0.6895-1",
       "jitsi-meet-web-config": "1.0.6895-1",
       "jitsi-meet-prosody": "1.0.6895-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6895-1"
     }
   },
   {
@@ -1017,6 +1320,9 @@
       "jitsi-meet-web": "1.0.6894-1",
       "jitsi-meet-web-config": "1.0.6894-1",
       "jitsi-meet-prosody": "1.0.6894-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6894-1"
     }
   },
   {
@@ -1027,6 +1333,9 @@
       "jitsi-meet-web": "1.0.6893-1",
       "jitsi-meet-web-config": "1.0.6893-1",
       "jitsi-meet-prosody": "1.0.6893-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6893-1"
     }
   },
   {
@@ -1037,6 +1346,9 @@
       "jitsi-meet-web": "1.0.6893-1",
       "jitsi-meet-web-config": "1.0.6893-1",
       "jitsi-meet-prosody": "1.0.6893-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6893-1"
     }
   },
   {
@@ -1047,6 +1359,9 @@
       "jitsi-meet-web": "1.0.6893-1",
       "jitsi-meet-web-config": "1.0.6893-1",
       "jitsi-meet-prosody": "1.0.6893-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6893-1"
     }
   },
   {
@@ -1057,6 +1372,9 @@
       "jitsi-meet-web": "1.0.6892-1",
       "jitsi-meet-web-config": "1.0.6892-1",
       "jitsi-meet-prosody": "1.0.6892-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6892-1"
     }
   },
   {
@@ -1067,6 +1385,9 @@
       "jitsi-meet-web": "1.0.6891-1",
       "jitsi-meet-web-config": "1.0.6891-1",
       "jitsi-meet-prosody": "1.0.6891-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6891-1"
     }
   },
   {
@@ -1077,6 +1398,9 @@
       "jitsi-meet-web": "1.0.6891-1",
       "jitsi-meet-web-config": "1.0.6891-1",
       "jitsi-meet-prosody": "1.0.6891-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6891-1"
     }
   },
   {
@@ -1087,6 +1411,9 @@
       "jitsi-meet-web": "1.0.6890-1",
       "jitsi-meet-web-config": "1.0.6890-1",
       "jitsi-meet-prosody": "1.0.6890-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6890-1"
     }
   },
   {
@@ -1097,6 +1424,9 @@
       "jitsi-meet-web": "1.0.6890-1",
       "jitsi-meet-web-config": "1.0.6890-1",
       "jitsi-meet-prosody": "1.0.6890-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6890-1"
     }
   },
   {
@@ -1107,6 +1437,9 @@
       "jitsi-meet-web": "1.0.6889-1",
       "jitsi-meet-web-config": "1.0.6889-1",
       "jitsi-meet-prosody": "1.0.6889-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6889-1"
     }
   },
   {
@@ -1117,6 +1450,9 @@
       "jitsi-meet-web": "1.0.6888-1",
       "jitsi-meet-web-config": "1.0.6888-1",
       "jitsi-meet-prosody": "1.0.6888-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6888-1"
     }
   },
   {
@@ -1127,6 +1463,9 @@
       "jitsi-meet-web": "1.0.6887-1",
       "jitsi-meet-web-config": "1.0.6887-1",
       "jitsi-meet-prosody": "1.0.6887-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6887-1"
     }
   },
   {
@@ -1137,6 +1476,9 @@
       "jitsi-meet-web": "1.0.6886-1",
       "jitsi-meet-web-config": "1.0.6886-1",
       "jitsi-meet-prosody": "1.0.6886-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6886-1"
     }
   },
   {
@@ -1147,6 +1489,9 @@
       "jitsi-meet-web": "1.0.6885-1",
       "jitsi-meet-web-config": "1.0.6885-1",
       "jitsi-meet-prosody": "1.0.6885-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6885-1"
     }
   },
   {
@@ -1157,6 +1502,9 @@
       "jitsi-meet-web": "1.0.6884-1",
       "jitsi-meet-web-config": "1.0.6884-1",
       "jitsi-meet-prosody": "1.0.6884-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6884-1"
     }
   },
   {
@@ -1167,6 +1515,9 @@
       "jitsi-meet-web": "1.0.6883-1",
       "jitsi-meet-web-config": "1.0.6883-1",
       "jitsi-meet-prosody": "1.0.6883-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6883-1"
     }
   },
   {
@@ -1177,6 +1528,9 @@
       "jitsi-meet-web": "1.0.6882-1",
       "jitsi-meet-web-config": "1.0.6882-1",
       "jitsi-meet-prosody": "1.0.6882-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6882-1"
     }
   },
   {
@@ -1187,6 +1541,9 @@
       "jitsi-meet-web": "1.0.6881-1",
       "jitsi-meet-web-config": "1.0.6881-1",
       "jitsi-meet-prosody": "1.0.6881-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6881-1"
     }
   },
   {
@@ -1197,6 +1554,9 @@
       "jitsi-meet-web": "1.0.6880-1",
       "jitsi-meet-web-config": "1.0.6880-1",
       "jitsi-meet-prosody": "1.0.6880-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6880-1"
     }
   },
   {
@@ -1207,6 +1567,9 @@
       "jitsi-meet-web": "1.0.6879-1",
       "jitsi-meet-web-config": "1.0.6879-1",
       "jitsi-meet-prosody": "1.0.6879-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6879-1"
     }
   },
   {
@@ -1217,6 +1580,9 @@
       "jitsi-meet-web": "1.0.6878-1",
       "jitsi-meet-web-config": "1.0.6878-1",
       "jitsi-meet-prosody": "1.0.6878-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6878-1"
     }
   },
   {
@@ -1227,6 +1593,9 @@
       "jitsi-meet-web": "1.0.6877-1",
       "jitsi-meet-web-config": "1.0.6877-1",
       "jitsi-meet-prosody": "1.0.6877-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6877-1"
     }
   },
   {
@@ -1237,6 +1606,9 @@
       "jitsi-meet-web": "1.0.6876-1",
       "jitsi-meet-web-config": "1.0.6876-1",
       "jitsi-meet-prosody": "1.0.6876-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6876-1"
     }
   },
   {
@@ -1247,6 +1619,9 @@
       "jitsi-meet-web": "1.0.6875-1",
       "jitsi-meet-web-config": "1.0.6875-1",
       "jitsi-meet-prosody": "1.0.6875-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6875-1"
     }
   },
   {
@@ -1257,6 +1632,9 @@
       "jitsi-meet-web": "1.0.6874-1",
       "jitsi-meet-web-config": "1.0.6874-1",
       "jitsi-meet-prosody": "1.0.6874-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6874-1"
     }
   },
   {
@@ -1267,6 +1645,9 @@
       "jitsi-meet-web": "1.0.6873-1",
       "jitsi-meet-web-config": "1.0.6873-1",
       "jitsi-meet-prosody": "1.0.6873-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6873-1"
     }
   },
   {
@@ -1277,6 +1658,9 @@
       "jitsi-meet-web": "1.0.6872-1",
       "jitsi-meet-web-config": "1.0.6872-1",
       "jitsi-meet-prosody": "1.0.6872-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6872-1"
     }
   },
   {
@@ -1287,6 +1671,9 @@
       "jitsi-meet-web": "1.0.6871-1",
       "jitsi-meet-web-config": "1.0.6871-1",
       "jitsi-meet-prosody": "1.0.6871-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6871-1"
     }
   },
   {
@@ -1297,6 +1684,9 @@
       "jitsi-meet-web": "1.0.6871-1",
       "jitsi-meet-web-config": "1.0.6871-1",
       "jitsi-meet-prosody": "1.0.6871-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6871-1"
     }
   },
   {
@@ -1307,6 +1697,9 @@
       "jitsi-meet-web": "1.0.6870-1",
       "jitsi-meet-web-config": "1.0.6870-1",
       "jitsi-meet-prosody": "1.0.6870-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6870-1"
     }
   },
   {
@@ -1317,6 +1710,9 @@
       "jitsi-meet-web": "1.0.6869-1",
       "jitsi-meet-web-config": "1.0.6869-1",
       "jitsi-meet-prosody": "1.0.6869-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6869-1"
     }
   },
   {
@@ -1327,6 +1723,9 @@
       "jitsi-meet-web": "1.0.6868-1",
       "jitsi-meet-web-config": "1.0.6868-1",
       "jitsi-meet-prosody": "1.0.6868-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6868-1"
     }
   },
   {
@@ -1337,6 +1736,9 @@
       "jitsi-meet-web": "1.0.6867-1",
       "jitsi-meet-web-config": "1.0.6867-1",
       "jitsi-meet-prosody": "1.0.6867-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6867-1"
     }
   },
   {
@@ -1347,6 +1749,9 @@
       "jitsi-meet-web": "1.0.6866-1",
       "jitsi-meet-web-config": "1.0.6866-1",
       "jitsi-meet-prosody": "1.0.6866-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6866-1"
     }
   },
   {
@@ -1357,6 +1762,9 @@
       "jitsi-meet-web": "1.0.6865-1",
       "jitsi-meet-web-config": "1.0.6865-1",
       "jitsi-meet-prosody": "1.0.6865-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6865-1"
     }
   },
   {
@@ -1367,6 +1775,9 @@
       "jitsi-meet-web": "1.0.6864-1",
       "jitsi-meet-web-config": "1.0.6864-1",
       "jitsi-meet-prosody": "1.0.6864-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6864-1"
     }
   },
   {
@@ -1377,6 +1788,9 @@
       "jitsi-meet-web": "1.0.6863-1",
       "jitsi-meet-web-config": "1.0.6863-1",
       "jitsi-meet-prosody": "1.0.6863-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6863-1"
     }
   },
   {
@@ -1387,6 +1801,9 @@
       "jitsi-meet-web": "1.0.6863-1",
       "jitsi-meet-web-config": "1.0.6863-1",
       "jitsi-meet-prosody": "1.0.6863-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6863-1"
     }
   },
   {
@@ -1397,6 +1814,9 @@
       "jitsi-meet-web": "1.0.6862-1",
       "jitsi-meet-web-config": "1.0.6862-1",
       "jitsi-meet-prosody": "1.0.6862-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6862-1"
     }
   },
   {
@@ -1407,6 +1827,9 @@
       "jitsi-meet-web": "1.0.6861-1",
       "jitsi-meet-web-config": "1.0.6861-1",
       "jitsi-meet-prosody": "1.0.6861-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6861-1"
     }
   },
   {
@@ -1417,6 +1840,9 @@
       "jitsi-meet-web": "1.0.6860-1",
       "jitsi-meet-web-config": "1.0.6860-1",
       "jitsi-meet-prosody": "1.0.6860-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6860-1"
     }
   },
   {
@@ -1427,6 +1853,9 @@
       "jitsi-meet-web": "1.0.6859-1",
       "jitsi-meet-web-config": "1.0.6859-1",
       "jitsi-meet-prosody": "1.0.6859-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6859-1"
     }
   },
   {
@@ -1437,6 +1866,9 @@
       "jitsi-meet-web": "1.0.6858-1",
       "jitsi-meet-web-config": "1.0.6858-1",
       "jitsi-meet-prosody": "1.0.6858-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6858-1"
     }
   },
   {
@@ -1447,6 +1879,9 @@
       "jitsi-meet-web": "1.0.6857-1",
       "jitsi-meet-web-config": "1.0.6857-1",
       "jitsi-meet-prosody": "1.0.6857-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6857-1"
     }
   },
   {
@@ -1457,6 +1892,9 @@
       "jitsi-meet-web": "1.0.6857-1",
       "jitsi-meet-web-config": "1.0.6857-1",
       "jitsi-meet-prosody": "1.0.6857-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6857-1"
     }
   },
   {
@@ -1467,6 +1905,9 @@
       "jitsi-meet-web": "1.0.6856-1",
       "jitsi-meet-web-config": "1.0.6856-1",
       "jitsi-meet-prosody": "1.0.6856-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6856-1"
     }
   },
   {
@@ -1477,6 +1918,9 @@
       "jitsi-meet-web": "1.0.6855-1",
       "jitsi-meet-web-config": "1.0.6855-1",
       "jitsi-meet-prosody": "1.0.6855-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6855-1"
     }
   },
   {
@@ -1487,6 +1931,9 @@
       "jitsi-meet-web": "1.0.6855-1",
       "jitsi-meet-web-config": "1.0.6855-1",
       "jitsi-meet-prosody": "1.0.6855-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6855-1"
     }
   },
   {
@@ -1497,6 +1944,9 @@
       "jitsi-meet-web": "1.0.6855-1",
       "jitsi-meet-web-config": "1.0.6855-1",
       "jitsi-meet-prosody": "1.0.6855-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6855-1"
     }
   },
   {
@@ -1507,6 +1957,9 @@
       "jitsi-meet-web": "1.0.6854-1",
       "jitsi-meet-web-config": "1.0.6854-1",
       "jitsi-meet-prosody": "1.0.6854-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6854-1"
     }
   },
   {
@@ -1517,6 +1970,9 @@
       "jitsi-meet-web": "1.0.6854-1",
       "jitsi-meet-web-config": "1.0.6854-1",
       "jitsi-meet-prosody": "1.0.6854-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6854-1"
     }
   },
   {
@@ -1527,6 +1983,9 @@
       "jitsi-meet-web": "1.0.6853-1",
       "jitsi-meet-web-config": "1.0.6853-1",
       "jitsi-meet-prosody": "1.0.6853-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6853-1"
     }
   },
   {
@@ -1537,6 +1996,9 @@
       "jitsi-meet-web": "1.0.6852-1",
       "jitsi-meet-web-config": "1.0.6852-1",
       "jitsi-meet-prosody": "1.0.6852-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6852-1"
     }
   },
   {
@@ -1547,6 +2009,9 @@
       "jitsi-meet-web": "1.0.6851-1",
       "jitsi-meet-web-config": "1.0.6851-1",
       "jitsi-meet-prosody": "1.0.6851-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6851-1"
     }
   },
   {
@@ -1557,6 +2022,9 @@
       "jitsi-meet-web": "1.0.6850-1",
       "jitsi-meet-web-config": "1.0.6850-1",
       "jitsi-meet-prosody": "1.0.6850-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6850-1"
     }
   },
   {
@@ -1567,6 +2035,9 @@
       "jitsi-meet-web": "1.0.6849-1",
       "jitsi-meet-web-config": "1.0.6849-1",
       "jitsi-meet-prosody": "1.0.6849-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6849-1"
     }
   },
   {
@@ -1577,6 +2048,9 @@
       "jitsi-meet-web": "1.0.6849-1",
       "jitsi-meet-web-config": "1.0.6849-1",
       "jitsi-meet-prosody": "1.0.6849-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6849-1"
     }
   },
   {
@@ -1587,6 +2061,9 @@
       "jitsi-meet-web": "1.0.6848-1",
       "jitsi-meet-web-config": "1.0.6848-1",
       "jitsi-meet-prosody": "1.0.6848-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6848-1"
     }
   },
   {
@@ -1597,6 +2074,9 @@
       "jitsi-meet-web": "1.0.6847-1",
       "jitsi-meet-web-config": "1.0.6847-1",
       "jitsi-meet-prosody": "1.0.6847-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6847-1"
     }
   },
   {
@@ -1607,6 +2087,9 @@
       "jitsi-meet-web": "1.0.6846-1",
       "jitsi-meet-web-config": "1.0.6846-1",
       "jitsi-meet-prosody": "1.0.6846-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6846-1"
     }
   },
   {
@@ -1617,6 +2100,9 @@
       "jitsi-meet-web": "1.0.6846-1",
       "jitsi-meet-web-config": "1.0.6846-1",
       "jitsi-meet-prosody": "1.0.6846-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6846-1"
     }
   },
   {
@@ -1627,6 +2113,9 @@
       "jitsi-meet-web": "1.0.6846-1",
       "jitsi-meet-web-config": "1.0.6846-1",
       "jitsi-meet-prosody": "1.0.6846-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6846-1"
     }
   },
   {
@@ -1637,6 +2126,9 @@
       "jitsi-meet-web": "1.0.6846-1",
       "jitsi-meet-web-config": "1.0.6846-1",
       "jitsi-meet-prosody": "1.0.6846-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6846-1"
     }
   },
   {
@@ -1647,6 +2139,9 @@
       "jitsi-meet-web": "1.0.6845-1",
       "jitsi-meet-web-config": "1.0.6845-1",
       "jitsi-meet-prosody": "1.0.6845-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6845-1"
     }
   },
   {
@@ -1657,6 +2152,9 @@
       "jitsi-meet-web": "1.0.6844-1",
       "jitsi-meet-web-config": "1.0.6844-1",
       "jitsi-meet-prosody": "1.0.6844-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6844-1"
     }
   },
   {
@@ -1667,6 +2165,9 @@
       "jitsi-meet-web": "1.0.6844-1",
       "jitsi-meet-web-config": "1.0.6844-1",
       "jitsi-meet-prosody": "1.0.6844-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6844-1"
     }
   },
   {
@@ -1677,6 +2178,9 @@
       "jitsi-meet-web": "1.0.6844-1",
       "jitsi-meet-web-config": "1.0.6844-1",
       "jitsi-meet-prosody": "1.0.6844-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6844-1"
     }
   },
   {
@@ -1687,6 +2191,9 @@
       "jitsi-meet-web": "1.0.6843-1",
       "jitsi-meet-web-config": "1.0.6843-1",
       "jitsi-meet-prosody": "1.0.6843-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6843-1"
     }
   },
   {
@@ -1697,6 +2204,9 @@
       "jitsi-meet-web": "1.0.6842-1",
       "jitsi-meet-web-config": "1.0.6842-1",
       "jitsi-meet-prosody": "1.0.6842-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6842-1"
     }
   },
   {
@@ -1707,6 +2217,9 @@
       "jitsi-meet-web": "1.0.6841-1",
       "jitsi-meet-web-config": "1.0.6841-1",
       "jitsi-meet-prosody": "1.0.6841-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6841-1"
     }
   },
   {
@@ -1717,6 +2230,9 @@
       "jitsi-meet-web": "1.0.6841-1",
       "jitsi-meet-web-config": "1.0.6841-1",
       "jitsi-meet-prosody": "1.0.6841-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6841-1"
     }
   },
   {
@@ -1727,6 +2243,9 @@
       "jitsi-meet-web": "1.0.6841-1",
       "jitsi-meet-web-config": "1.0.6841-1",
       "jitsi-meet-prosody": "1.0.6841-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6841-1"
     }
   },
   {
@@ -1737,6 +2256,9 @@
       "jitsi-meet-web": "1.0.6840-1",
       "jitsi-meet-web-config": "1.0.6840-1",
       "jitsi-meet-prosody": "1.0.6840-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6840-1"
     }
   },
   {
@@ -1747,6 +2269,9 @@
       "jitsi-meet-web": "1.0.6839-1",
       "jitsi-meet-web-config": "1.0.6839-1",
       "jitsi-meet-prosody": "1.0.6839-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6839-1"
     }
   },
   {
@@ -1757,6 +2282,9 @@
       "jitsi-meet-web": "1.0.6838-1",
       "jitsi-meet-web-config": "1.0.6838-1",
       "jitsi-meet-prosody": "1.0.6838-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6838-1"
     }
   },
   {
@@ -1767,6 +2295,9 @@
       "jitsi-meet-web": "1.0.6837-1",
       "jitsi-meet-web-config": "1.0.6837-1",
       "jitsi-meet-prosody": "1.0.6837-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6837-1"
     }
   },
   {
@@ -1777,6 +2308,9 @@
       "jitsi-meet-web": "1.0.6836-1",
       "jitsi-meet-web-config": "1.0.6836-1",
       "jitsi-meet-prosody": "1.0.6836-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6836-1"
     }
   },
   {
@@ -1787,6 +2321,9 @@
       "jitsi-meet-web": "1.0.6835-1",
       "jitsi-meet-web-config": "1.0.6835-1",
       "jitsi-meet-prosody": "1.0.6835-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6835-1"
     }
   },
   {
@@ -1797,6 +2334,9 @@
       "jitsi-meet-web": "1.0.6834-1",
       "jitsi-meet-web-config": "1.0.6834-1",
       "jitsi-meet-prosody": "1.0.6834-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6834-1"
     }
   },
   {
@@ -1807,6 +2347,9 @@
       "jitsi-meet-web": "1.0.6833-1",
       "jitsi-meet-web-config": "1.0.6833-1",
       "jitsi-meet-prosody": "1.0.6833-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6833-1"
     }
   },
   {
@@ -1817,6 +2360,9 @@
       "jitsi-meet-web": "1.0.6832-1",
       "jitsi-meet-web-config": "1.0.6832-1",
       "jitsi-meet-prosody": "1.0.6832-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6832-1"
     }
   },
   {
@@ -1827,6 +2373,9 @@
       "jitsi-meet-web": "1.0.6831-1",
       "jitsi-meet-web-config": "1.0.6831-1",
       "jitsi-meet-prosody": "1.0.6831-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6831-1"
     }
   },
   {
@@ -1837,6 +2386,9 @@
       "jitsi-meet-web": "1.0.6830-1",
       "jitsi-meet-web-config": "1.0.6830-1",
       "jitsi-meet-prosody": "1.0.6830-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6830-1"
     }
   },
   {
@@ -1847,6 +2399,9 @@
       "jitsi-meet-web": "1.0.6830-1",
       "jitsi-meet-web-config": "1.0.6830-1",
       "jitsi-meet-prosody": "1.0.6830-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6830-1"
     }
   },
   {
@@ -1857,6 +2412,9 @@
       "jitsi-meet-web": "1.0.6830-1",
       "jitsi-meet-web-config": "1.0.6830-1",
       "jitsi-meet-prosody": "1.0.6830-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6830-1"
     }
   },
   {
@@ -1867,6 +2425,9 @@
       "jitsi-meet-web": "1.0.6829-1",
       "jitsi-meet-web-config": "1.0.6829-1",
       "jitsi-meet-prosody": "1.0.6829-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6829-1"
     }
   },
   {
@@ -1877,6 +2438,9 @@
       "jitsi-meet-web": "1.0.6828-1",
       "jitsi-meet-web-config": "1.0.6828-1",
       "jitsi-meet-prosody": "1.0.6828-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6828-1"
     }
   },
   {
@@ -1887,6 +2451,9 @@
       "jitsi-meet-web": "1.0.6827-1",
       "jitsi-meet-web-config": "1.0.6827-1",
       "jitsi-meet-prosody": "1.0.6827-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6827-1"
     }
   },
   {
@@ -1897,6 +2464,9 @@
       "jitsi-meet-web": "1.0.6826-1",
       "jitsi-meet-web-config": "1.0.6826-1",
       "jitsi-meet-prosody": "1.0.6826-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6826-1"
     }
   },
   {
@@ -1907,6 +2477,9 @@
       "jitsi-meet-web": "1.0.6825-1",
       "jitsi-meet-web-config": "1.0.6825-1",
       "jitsi-meet-prosody": "1.0.6825-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6825-1"
     }
   },
   {
@@ -1917,6 +2490,9 @@
       "jitsi-meet-web": "1.0.6824-1",
       "jitsi-meet-web-config": "1.0.6824-1",
       "jitsi-meet-prosody": "1.0.6824-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6824-1"
     }
   },
   {
@@ -1927,6 +2503,9 @@
       "jitsi-meet-web": "1.0.6823-1",
       "jitsi-meet-web-config": "1.0.6823-1",
       "jitsi-meet-prosody": "1.0.6823-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6823-1"
     }
   },
   {
@@ -1937,6 +2516,9 @@
       "jitsi-meet-web": "1.0.6822-1",
       "jitsi-meet-web-config": "1.0.6822-1",
       "jitsi-meet-prosody": "1.0.6822-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6822-1"
     }
   },
   {
@@ -1947,6 +2529,9 @@
       "jitsi-meet-web": "1.0.6822-1",
       "jitsi-meet-web-config": "1.0.6822-1",
       "jitsi-meet-prosody": "1.0.6822-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6822-1"
     }
   },
   {
@@ -1957,6 +2542,9 @@
       "jitsi-meet-web": "1.0.6821-1",
       "jitsi-meet-web-config": "1.0.6821-1",
       "jitsi-meet-prosody": "1.0.6821-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6821-1"
     }
   },
   {
@@ -1967,6 +2555,9 @@
       "jitsi-meet-web": "1.0.6820-1",
       "jitsi-meet-web-config": "1.0.6820-1",
       "jitsi-meet-prosody": "1.0.6820-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6820-1"
     }
   },
   {
@@ -1977,6 +2568,9 @@
       "jitsi-meet-web": "1.0.6819-1",
       "jitsi-meet-web-config": "1.0.6819-1",
       "jitsi-meet-prosody": "1.0.6819-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6819-1"
     }
   },
   {
@@ -1987,6 +2581,9 @@
       "jitsi-meet-web": "1.0.6818-1",
       "jitsi-meet-web-config": "1.0.6818-1",
       "jitsi-meet-prosody": "1.0.6818-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6818-1"
     }
   },
   {
@@ -1997,6 +2594,9 @@
       "jitsi-meet-web": "1.0.6817-1",
       "jitsi-meet-web-config": "1.0.6817-1",
       "jitsi-meet-prosody": "1.0.6817-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6817-1"
     }
   },
   {
@@ -2007,6 +2607,9 @@
       "jitsi-meet-web": "1.0.6816-1",
       "jitsi-meet-web-config": "1.0.6816-1",
       "jitsi-meet-prosody": "1.0.6816-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6816-1"
     }
   }
 ]
