@@ -1,5 +1,18 @@
 [
   {
+    "version": "2.0.8319-1",
+    "deps": {
+      "jitsi-videobridge2": "2.2-79-gf6426ea0-1",
+      "jicofo": "1.0-996-1",
+      "jitsi-meet-web": "1.0.6991-1",
+      "jitsi-meet-web-config": "1.0.6991-1",
+      "jitsi-meet-prosody": "1.0.6991-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.6991-1"
+    }
+  },
+  {
     "version": "2.0.8252-1",
     "deps": {
       "jitsi-videobridge2": "2.2-69-gad606ca2-1",
