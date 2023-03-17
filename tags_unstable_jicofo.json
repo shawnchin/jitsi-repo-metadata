@@ -1,6 +1,15 @@
 {
   "repo": "jitsi/jicofo",
   "versions": [
+    8424,
+    8423,
+    8422,
+    8421,
+    8420,
+    8419,
+    8418,
+    8417,
+    8416,
     8415,
     8414,
     8413,
@@ -12077,6 +12086,42 @@
     "8415": {
       "commit": "2733b207b12fb878ca1ee826ba8924ecd87dd52f",
       "tag": "jitsi-meet_8415"
+    },
+    "8416": {
+      "commit": "b6aafd4dcfd0b6ad6f1599704af296521e5e005a",
+      "tag": "jitsi-meet_8416"
+    },
+    "8417": {
+      "commit": "14ecbee8971f9430e64f55766f1c6accda07789d",
+      "tag": "jitsi-meet_8417"
+    },
+    "8418": {
+      "commit": "a4bb24b070e334cb9cc275e9bde95690022a3e8f",
+      "tag": "jitsi-meet_8418"
+    },
+    "8419": {
+      "commit": "6ee36176abf156de4e79f0319570717111add6ec",
+      "tag": "jitsi-meet_8419"
+    },
+    "8420": {
+      "commit": "543ee680b3c087f8bd0764e370068487bf017d60",
+      "tag": "jitsi-meet_8420"
+    },
+    "8421": {
+      "commit": "93e308a2722d38c321704be0a7897b803e373720",
+      "tag": "jitsi-meet_8421"
+    },
+    "8422": {
+      "commit": "687484497143a8e315814bd09f775fd698943e57",
+      "tag": "jitsi-meet_8422"
+    },
+    "8423": {
+      "commit": "2d63ea340de84ebd72452a0185c4416a1af35f28",
+      "tag": "jitsi-meet_8423"
+    },
+    "8424": {
+      "commit": "1d0fdfb11af53de8648db7255bf41c68b340226a",
+      "tag": "jitsi-meet_8424"
     }
   }
 }
