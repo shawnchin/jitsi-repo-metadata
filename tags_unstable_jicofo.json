@@ -1,6 +1,9 @@
 {
   "repo": "jitsi/jicofo",
   "versions": [
+    9177,
+    9176,
+    9175,
     9174,
     9173,
     9172,
@@ -15862,6 +15865,18 @@
     "9174": {
       "commit": "b0525d0f6cb03f4ed146f10d4c3430b08301cdbb",
       "tag": "jitsi-meet_9174"
+    },
+    "9175": {
+      "commit": "d3e4bd994c5797c62174817b1340af439bb3b4c4",
+      "tag": "jitsi-meet_9175"
+    },
+    "9176": {
+      "commit": "aeb03e18442e2373a9669268e80d60d84d5f5973",
+      "tag": "jitsi-meet_9176"
+    },
+    "9177": {
+      "commit": "a4abfcfd80086e4906a0f225ca9e3fe89c20f85d",
+      "tag": "jitsi-meet_9177"
     }
   }
 }
