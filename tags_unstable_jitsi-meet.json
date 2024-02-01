@@ -1,6 +1,11 @@
 {
   "repo": "jitsi/jitsi-meet",
   "versions": [
+    9249,
+    9248,
+    9247,
+    9246,
+    9245,
     9244,
     9243,
     9242,
@@ -16207,6 +16212,26 @@
     "9244": {
       "commit": "4e3151ed9f9f9acfc2272e1d9e79c4fc04e4b453",
       "tag": "jitsi-meet_9244"
+    },
+    "9245": {
+      "commit": "b8b5b64a2bcd64273ac203f33df5c90b6542f6bf",
+      "tag": "jitsi-meet_9245"
+    },
+    "9246": {
+      "commit": "eec4dd8f98d9cf776d3878c0174342471b517105",
+      "tag": "jitsi-meet_9246"
+    },
+    "9247": {
+      "commit": "a5c5012139486291003808e357b4107c40fd502f",
+      "tag": "jitsi-meet_9247"
+    },
+    "9248": {
+      "commit": "36e0431d3afc50b029c4142537d3d80e472f75f2",
+      "tag": "jitsi-meet_9248"
+    },
+    "9249": {
+      "commit": "4dbbceb6105132cc101f3682bd5f26525b74ffe6",
+      "tag": "jitsi-meet_9249"
     }
   }
 }
