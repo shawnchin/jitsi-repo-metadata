@@ -1,6 +1,8 @@
 {
   "repo": "jitsi/jitsi-meet",
   "versions": [
+    9519,
+    9518,
     9517,
     9516,
     9515,
@@ -17572,6 +17574,14 @@
     "9517": {
       "commit": "a62ac14a2026d8ebf1b019f742cc9d2bb2a3b119",
       "tag": "jitsi-meet_9517"
+    },
+    "9518": {
+      "commit": "f2dbfa50dc99622c1002870fe656f7d72c1c759e",
+      "tag": "jitsi-meet_9518"
+    },
+    "9519": {
+      "commit": "349e5c66fe7609c7eb76015a93f01d4b7c862c3a",
+      "tag": "jitsi-meet_9519"
     }
   }
 }
