@@ -1,6 +1,7 @@
 {
   "repo": "jitsi/jitsi-videobridge",
   "versions": [
+    9584,
     9457,
     9364,
     9258,
@@ -177,6 +178,10 @@
     "9457": {
       "commit": "20eed921e32a60041fff0369b451c996e68356fb",
       "tag": "stable/jitsi-meet_9457"
+    },
+    "9584": {
+      "commit": "b2ca314a71cfc744b722d75a96d7d940ffd0d2d3",
+      "tag": "stable/jitsi-meet_9584"
     }
   }
 }
