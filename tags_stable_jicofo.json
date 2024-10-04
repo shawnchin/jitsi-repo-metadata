@@ -42,155 +42,155 @@
   ],
   "tags": {
     "6173": {
-      "commit": "37b53e642afa61289e1d8fec27df127463868b93",
+      "commit": "2f72367b1273b3f4103bb4d50fa58da8a5ed003a",
       "tag": "stable/jitsi-meet_6173"
     },
     "6293": {
-      "commit": "0d7f5c48c6217d8877c928268b09386df90c84f7",
+      "commit": "fbba7ee1384cd343f4000c8905a3a4c850a2e6a5",
       "tag": "stable/jitsi-meet_6293"
     },
     "6433": {
-      "commit": "d3322fae1495f5349da0388216dafe0b63dbf493",
+      "commit": "0aff9aa86f2543a7aadfcd406f714ea136844e18",
       "tag": "stable/jitsi-meet_6433"
     },
     "6689": {
-      "commit": "aa68c01148a7d1e5dbb7df91a792e4215a8d59f9",
+      "commit": "6df56004961f2b4eb9dc58d2cd9c2b673ddfce03",
       "tag": "stable/jitsi-meet_6689"
     },
     "6726": {
-      "commit": "284164c5f861e227636a36fa3470215667874ff7",
+      "commit": "e53bdf8730d6a2761f0334e5c6064efd6caa74cf",
       "tag": "stable/jitsi-meet_6726"
     },
     "6826": {
-      "commit": "de1e32c78a3aabc8f5f69909a6820d943a7e1f2e",
+      "commit": "2248f7c4644dcc5883b9d3d4c5e3e4251cc84b3b",
       "tag": "stable/jitsi-meet_6826"
     },
     "6865": {
-      "commit": "2bc7b879ca16724ccf3c19e12e90d4f57bbb809d",
+      "commit": "5d9923c03651d7570d2dba9e8f3e6141ebfdb73a",
       "tag": "stable/jitsi-meet_6865"
     },
     "7001": {
-      "commit": "72be00ec9278b42bdca05dc880e7f9bc7c4be1ca",
+      "commit": "aace8cf79a06063571208eb439bbfd30c3207f13",
       "tag": "stable/jitsi-meet_7001"
     },
     "7210": {
-      "commit": "ce18da5a1ae61fa63a03c175648cd9b4f2816ab8",
+      "commit": "a64005759f9408b92648f9f8cabc3f6f8e77da9e",
       "tag": "stable/jitsi-meet_7210"
     },
     "7287": {
-      "commit": "e0e9aa069af9f6827be7c0ab1b9ff954b4c85742",
+      "commit": "d8cca3d594e63cc0bfb29434ffa1c01fc8511ec2",
       "tag": "stable/jitsi-meet_7287"
     },
     "7416": {
-      "commit": "752275f5ebe5e3f64e89d7dd17eb1ee17b01e518",
+      "commit": "23d4ff88b93eda1a15d780361cc4ecc0949e5f87",
       "tag": "stable/jitsi-meet_7416"
     },
     "7439": {
-      "commit": "79d3ea44d26309a482eb36f5710a7ecfb3f1f832",
+      "commit": "29225392db11e2058392d12d641b622b61030ba5",
       "tag": "stable/jitsi-meet_7439"
     },
     "7577": {
-      "commit": "9d1ed2addbbc20c696656ae08b7fbf2a35069d0c",
+      "commit": "a8c89ac9c3c26f1a0f3f21ddb286b4c5a0f72561",
       "tag": "stable/jitsi-meet_7577"
     },
     "7648": {
-      "commit": "e92b4547f25f67f5af29635c146d85ba31ad1558",
+      "commit": "f326b319444d0de48b28abb997969ec7afed80b9",
       "tag": "stable/jitsi-meet_7648"
     },
     "7830": {
-      "commit": "caae477f9942782b0e4e5650a5d9bc643074bcc8",
+      "commit": "f0a02654844856492ef4936cf69d1cfd7ab8c24d",
       "tag": "stable/jitsi-meet_7830"
     },
     "7882": {
-      "commit": "b09319e100b8687c34ba7f75756638fede1e5777",
+      "commit": "6537921395b428af56fceca55eb06248768f353b",
       "tag": "stable/jitsi-meet_7882"
     },
     "8044": {
-      "commit": "988ef27df1fb194c4d6c8a1aae9359317193ccf2",
+      "commit": "ec69895752877cc67ab8938f54d31809f595156a",
       "tag": "stable/jitsi-meet_8044"
     },
     "8127": {
-      "commit": "fff066319d9c214b5056034cf0ca4a6b4dd2cede",
+      "commit": "2208f7932a7c293417d5b0ec46c0a574b941d80c",
       "tag": "stable/jitsi-meet_8127"
     },
     "8133": {
-      "commit": "7c200af1f19518f7bcb5cb17c99d08a20b732a78",
+      "commit": "fe8c9583224572de23010a4809ac6ebb9df65746",
       "tag": "stable/jitsi-meet_8133"
     },
     "8138": {
-      "commit": "bd907b1b50a0afb2e84107ce2dc5739cf51d85a4",
+      "commit": "7f90049c7300716b7842e0a1a4f474b119301747",
       "tag": "stable/jitsi-meet_8138"
     },
     "8194": {
-      "commit": "e519f3fe99f136c377103a2712527908356ae0c6",
+      "commit": "853b2eba32f74dcb1f4b3376f1f0cb4a702d08b1",
       "tag": "stable/jitsi-meet_8194"
     },
     "8218": {
-      "commit": "5ee579747fc2d7b7d7939c1362371611959b3cc9",
+      "commit": "479f93f5b8beb9d3beb765de6dfebf31670f8c8f",
       "tag": "stable/jitsi-meet_8218"
     },
     "8252": {
-      "commit": "522046fb2c6858a728940c888e813777fad8189e",
+      "commit": "1407a31fcc91ac9483cbd05959253891abbb398c",
       "tag": "stable/jitsi-meet_8252"
     },
     "8319": {
-      "commit": "539f662e1c8e82d6dbdf2c68f9811b9bcb9ec28b",
+      "commit": "aafb61b5363a1c4abdbf08e1444a6276b807993e",
       "tag": "stable/jitsi-meet_8319"
     },
     "8615": {
-      "commit": "d2ecdadcb4fa5869064156ca5768a2998a17b5e3",
+      "commit": "f84f6a5f3bc6e04288cd94a15bee467ebecd0ad0",
       "tag": "stable/jitsi-meet_8615"
     },
     "8719": {
-      "commit": "6b2d436a74cf4c3912720ba2d355459d13b225dd",
+      "commit": "0b4af3f8a709bbfeb43b9044191586d2c24b156a",
       "tag": "stable/jitsi-meet_8719"
     },
     "8922": {
-      "commit": "1493bcdfdc960cbf9b1512d5e093047173ec6770",
+      "commit": "42dd079b7ab90930742fc179b8dfb4abb1a87ed5",
       "tag": "stable/jitsi-meet_8922"
     },
     "8960": {
-      "commit": "8a4fc4b31a3a0b0fcc6225a233b1104d4d04c93e",
+      "commit": "8554b4177b714811333b64a33de071466f89ff9f",
       "tag": "stable/jitsi-meet_8960"
     },
     "9078": {
-      "commit": "9d3c12fd0d45bbca1bedeb50f67d533ee14ab647",
+      "commit": "067e5754606910dca8691b2e069fd66c2f56d534",
       "tag": "stable/jitsi-meet_9078"
     },
     "9111": {
-      "commit": "5142fd0e5602e2235b9959d37be5f4541e8e7d9c",
+      "commit": "600217bb44340ed891c39de6b5232809b7eb203d",
       "tag": "stable/jitsi-meet_9111"
     },
     "9164": {
-      "commit": "7a2772e9ca35cdd57272e0f8f4bc74409a33117f",
+      "commit": "713f6fb1e1a8fcf8cbdfd3517a624c83378654f7",
       "tag": "stable/jitsi-meet_9164"
     },
     "9220": {
-      "commit": "6b571ee7872ad8753f95506b0b6977a0baa37c7c",
+      "commit": "258eb98f0885c8dc866d78cb2441ea0eea6f3bca",
       "tag": "stable/jitsi-meet_9220"
     },
     "9258": {
-      "commit": "2f3315b85f69107f3eb4790b957ec79acf3c3c00",
+      "commit": "e20abda9ce7c5097481c1daefa88ca11d98155f3",
       "tag": "stable/jitsi-meet_9258"
     },
     "9364": {
-      "commit": "27f69c1376c71d55604188799be50db6c295d9d9",
+      "commit": "fb29dc88dd787353c1d994f66c8aea85caa12960",
       "tag": "stable/jitsi-meet_9364"
     },
     "9457": {
-      "commit": "f60ff22ee8442454e8b53230cdd80af2e3b0e627",
+      "commit": "b382fc294c804245b1a3d7ad2c6182b31b152c78",
       "tag": "stable/jitsi-meet_9457"
     },
     "9584": {
-      "commit": "c9125a08583cc6072ff8168cac3d6e2dff2c56bb",
+      "commit": "eaaf6135c824a6c4834469da5c24fed8f23d8d67",
       "tag": "stable/jitsi-meet_9584"
     },
     "9646": {
-      "commit": "1ab54cd3f709e584f05695043545f1c86e9cc0b4",
+      "commit": "b9d061281aac651be5cac07238678b0d769cbf13",
       "tag": "stable/jitsi-meet_9646"
     },
     "9753": {
-      "commit": "80b50b44b6b5cdd146f2cc11b44ceeb5de9d252a",
+      "commit": "52ba3658e479d3f37edbd01f7378002486ee9e56",
       "tag": "stable/jitsi-meet_9753"
     }
   }
