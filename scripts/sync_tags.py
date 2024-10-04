@@ -93,7 +93,7 @@ class JitsiTagQuery:
     @staticmethod
     def _parse_ref(ref: str) -> Optional[RefTag]:
         """ Returns None if we don't care about this tag, else return parsed value as RefTag. """
-        match = re.match(r'refs/tags/((stable/)?jitsi-meet_(\d+))$', ref)
+        match = re.match(r'refs/tags/((stable/)?jitsi-meet_(\d+))(?:\^{})?$', ref)
         if not match:
             return None
 
