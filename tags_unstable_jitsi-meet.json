@@ -1,6 +1,7 @@
 {
   "repo": "jitsi/jitsi-meet",
   "versions": [
+    10029,
     10028,
     10027,
     10026,
@@ -20127,6 +20128,10 @@
     "10028": {
       "commit": "726246577739a83dc256dc7b78d8ed1a3a169556",
       "tag": "jitsi-meet_10028"
+    },
+    "10029": {
+      "commit": "f670f39dd2527c7906ac63ff6defb1bfca88fffa",
+      "tag": "jitsi-meet_10029"
     }
   }
 }
