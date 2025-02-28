@@ -546,6 +546,19 @@
     }
   },
   {
+    "version": "2.0.10073-1",
+    "deps": {
+      "jitsi-videobridge2": "2.3-209-gb5fbe618-1",
+      "jicofo": "1.0-1124-1",
+      "jitsi-meet-web": "1.0.8443-1",
+      "jitsi-meet-web-config": "1.0.8443-1",
+      "jitsi-meet-prosody": "1.0.8443-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.8443-1"
+    }
+  },
+  {
     "version": "2.0.10008-1",
     "deps": {
       "jitsi-videobridge2": "2.3-204-g26cd91bd-1",
