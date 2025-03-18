@@ -1,6 +1,12 @@
 {
   "repo": "jitsi/jitsi-meet",
   "versions": [
+    10127,
+    10126,
+    10125,
+    10124,
+    10123,
+    10122,
     10121,
     10120,
     10119,
@@ -20592,6 +20598,30 @@
     "10121": {
       "commit": "fee6ecc82dd4facdfeab6da93199e0c1db4f8723",
       "tag": "jitsi-meet_10121"
+    },
+    "10122": {
+      "commit": "875a9cbaf3458b41714f63a54d8e2c97596a17b2",
+      "tag": "jitsi-meet_10122"
+    },
+    "10123": {
+      "commit": "21116c09f474bd4171e10f46a9d05d753259732a",
+      "tag": "jitsi-meet_10123"
+    },
+    "10124": {
+      "commit": "c3518208e1bd9e182878139a4a8d0c035ce2ffd0",
+      "tag": "jitsi-meet_10124"
+    },
+    "10125": {
+      "commit": "5ee0738e459527f8932c6dca06ce98202919e014",
+      "tag": "jitsi-meet_10125"
+    },
+    "10126": {
+      "commit": "bd1c3332ea54ab00a28556192a54191781e10e9c",
+      "tag": "jitsi-meet_10126"
+    },
+    "10127": {
+      "commit": "fecac0322e1ca4dbf44ba94a5ecf0c6e4da39753",
+      "tag": "jitsi-meet_10127"
     }
   }
 }
