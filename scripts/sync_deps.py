@@ -107,7 +107,7 @@ if __name__ == '__main__':
 
         logger.info(f'Filtering and parsing deps for jitsi-meet')
         jitsi_meet_deps = extract_jitsi_meet_deps(decoded_lines)
-        sorted_jitsi_meet_deps = sorted(jitsi_meet_deps, key=itemgetter("version"), reverse=True)
+        sorted_jitsi_meet_deps = sorted(jitsi_meet_deps, key=lambda o: parse_version(o['version']), reverse=True)
 
         logger.info(f"Writing {out_file}")
         with open(out_file, 'w') as f:
