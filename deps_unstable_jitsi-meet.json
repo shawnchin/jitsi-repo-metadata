@@ -1,5 +1,31 @@
 [
   {
+    "version": "2.0.10619-1",
+    "deps": {
+      "jitsi-videobridge2": "2.3-260-gea11cd36c-1",
+      "jicofo": "1.0-1164-1",
+      "jitsi-meet-web": "1.0.8903-1",
+      "jitsi-meet-web-config": "1.0.8903-1",
+      "jitsi-meet-prosody": "1.0.8903-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.8903-1"
+    }
+  },
+  {
+    "version": "2.0.10618-1",
+    "deps": {
+      "jitsi-videobridge2": "2.3-260-gea11cd36c-1",
+      "jicofo": "1.0-1164-1",
+      "jitsi-meet-web": "1.0.8902-1",
+      "jitsi-meet-web-config": "1.0.8902-1",
+      "jitsi-meet-prosody": "1.0.8902-1"
+    },
+    "recommends": {
+      "jitsi-meet-turnserver": "1.0.8902-1"
+    }
+  },
+  {
     "version": "2.0.10617-1",
     "deps": {
       "jitsi-videobridge2": "2.3-260-gea11cd36c-1",
@@ -2584,32 +2610,6 @@
     },
     "recommends": {
       "jitsi-meet-turnserver": "1.0.8726-1"
-    }
-  },
-  {
-    "version": "2.0.10418-1",
-    "deps": {
-      "jitsi-videobridge2": "2.3-249-g9a2123ad4-1",
-      "jicofo": "1.0-1152-1",
-      "jitsi-meet-web": "1.0.8725-1",
-      "jitsi-meet-web-config": "1.0.8725-1",
-      "jitsi-meet-prosody": "1.0.8725-1"
-    },
-    "recommends": {
-      "jitsi-meet-turnserver": "1.0.8725-1"
-    }
-  },
-  {
-    "version": "2.0.10417-1",
-    "deps": {
-      "jitsi-videobridge2": "2.3-248-g838e8f1d5-1",
-      "jicofo": "1.0-1152-1",
-      "jitsi-meet-web": "1.0.8725-1",
-      "jitsi-meet-web-config": "1.0.8725-1",
-      "jitsi-meet-prosody": "1.0.8725-1"
-    },
-    "recommends": {
-      "jitsi-meet-turnserver": "1.0.8725-1"
     }
   }
 ]
