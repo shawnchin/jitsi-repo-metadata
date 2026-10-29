@@ -1,6 +1,16 @@
 {
   "repo": "jitsi/jitsi-meet",
   "versions": [
+    11421,
+    11420,
+    11419,
+    11418,
+    11417,
+    11416,
+    11415,
+    11414,
+    11413,
+    11412,
     11411,
     11410,
     11409,
@@ -27032,6 +27042,46 @@
     "11411": {
       "commit": "b618c8e45d585a07bd5830a8a3f9c6a56b6d3657",
       "tag": "jitsi-meet_11411"
+    },
+    "11412": {
+      "commit": "0fc01ad1591dad0c92737cf8354376749eafd6dc",
+      "tag": "jitsi-meet_11412"
+    },
+    "11413": {
+      "commit": "87ad7dc1f787ab130e30b1872810103baaf24d0b",
+      "tag": "jitsi-meet_11413"
+    },
+    "11414": {
+      "commit": "87ad7dc1f787ab130e30b1872810103baaf24d0b",
+      "tag": "jitsi-meet_11414"
+    },
+    "11415": {
+      "commit": "012104b8fb76b087530cff740010150cd1b767aa",
+      "tag": "jitsi-meet_11415"
+    },
+    "11416": {
+      "commit": "f6075275cedc40a2e34abe4b6deacf7d7e6713da",
+      "tag": "jitsi-meet_11416"
+    },
+    "11417": {
+      "commit": "2dd1686af74682a381a9e4ec606d45cb3330892f",
+      "tag": "jitsi-meet_11417"
+    },
+    "11418": {
+      "commit": "25443695273967850d5ed64038845e5fd3332100",
+      "tag": "jitsi-meet_11418"
+    },
+    "11419": {
+      "commit": "25443695273967850d5ed64038845e5fd3332100",
+      "tag": "jitsi-meet_11419"
+    },
+    "11420": {
+      "commit": "6745c6a3c5179c8893235389f163db75cd064422",
+      "tag": "jitsi-meet_11420"
+    },
+    "11421": {
+      "commit": "a1744cc18863dcd18fff86a60cd00ac2ab795942",
+      "tag": "jitsi-meet_11421"
     }
   }
 }
